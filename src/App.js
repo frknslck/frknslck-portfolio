@@ -1,8 +1,10 @@
 import AppRouter from "./routers/AppRouter";
 
 function App() {
-  return (
-    <AppRouter/>
+  return ( 
+    // <div className="bg-[#23242a]">
+        <AppRouter/>
+    // </div>
   )
 }
 
